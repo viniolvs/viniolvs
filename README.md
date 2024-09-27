@@ -42,6 +42,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/viniolvs/viniolvs/output/snake.svg" alt="Snake animation" />
-
 ###
